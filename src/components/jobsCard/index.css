@@ -1,0 +1,47 @@
+.jobcard-container {
+  width: 100%;
+  background-color: #272727;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 15px;
+  margin-top: 20px;
+}
+.company-logo {
+  width: 50px;
+}
+.title {
+  color: white;
+  font-size: 16px;
+  font-weight: 500;
+}
+.compnylogo-title-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 35%;
+}
+.star {
+  width: 30px;
+}
+.description {
+  color: white;
+}
+.location-container {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+.jobtype-location-container {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}
+.logos {
+  color: white;
+  margin-right: 10px;
+}
+.logos-container {
+  display: flex;
+  align-items: center;
+}
